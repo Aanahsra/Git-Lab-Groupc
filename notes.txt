@@ -1,2 +1,3 @@
 This file is created for the Git & GitHub Lab activity.
 We are testing how to create and commit new files.
+This line was added in experiment-branch to demonstrate branching.
